@@ -1,0 +1,16 @@
+127.0.0.1 - - [06/Jan/2019:21:39:12 +0800] "POST /redsun/ws/waybill?wsdl HTTP/1.1" 200 222 http-bio-9090-exec-1 2305
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/waybill.html HTTP/1.1" 200 2577 http-bio-9090-exec-3 910
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/themes/default/easyui.css HTTP/1.1" 200 46665 http-bio-9090-exec-4 69
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/themes/icon.css HTTP/1.1" 200 1732 http-bio-9090-exec-5 17
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/jquery.min.js HTTP/1.1" 200 83095 http-bio-9090-exec-6 72
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/jquery.easyui.min.js HTTP/1.1" 200 322745 http-bio-9090-exec-7 85
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/locale/easyui-lang-zh_CN.js HTTP/1.1" 200 2624 http-bio-9090-exec-8 104
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/ui/jquery.serializejson.min.js HTTP/1.1" 200 4862 http-bio-9090-exec-7 77
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:55 +0800] "GET /redsun/admin/js/crud.js HTTP/1.1" 200 1609 http-bio-9090-exec-6 34
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-7 0
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /redsun/admin/ui/themes/default/images/blank.gif HTTP/1.1" 200 43 http-bio-9090-exec-7 24
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /redsun/admin/ui/themes/default/images/panel_tools.png HTTP/1.1" 200 852 http-bio-9090-exec-5 44
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /redsun/admin/ui/themes/default/images/pagination_icons.png HTTP/1.1" 200 628 http-bio-9090-exec-5 8
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /redsun/admin/ui/themes/icons/edit_add.png HTTP/1.1" 200 1088 http-bio-9090-exec-7 30
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:56 +0800] "GET /redsun/admin/ui/themes/default/images/loading.gif HTTP/1.1" 200 1737 http-bio-9090-exec-5 10
+0:0:0:0:0:0:0:1 - - [06/Jan/2019:23:00:58 +0800] "POST /redsun/admin/waybill_listByPage.action HTTP/1.1" 200 447 http-bio-9090-exec-7 1807
